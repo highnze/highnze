@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hej ✌️
+
+- 🔭 I’m currently working at the [School of arts Cassel](https://kunsthochschulekassel.de/willkommen.html) as a research assistant at the workshop (Studienwerkstatt) [Digitale 3D-Technik](https://d3dt.uber.space/), where I experiment with, work and teach different technologies like 3D printing (FDM, SLA, SLS, LDM ceramic), CNC laser, CNC milling ... 
+
+- 🤖 I just finished my thesis "Alexa allein Zuhaus" in Systemdesign. You can find it at www.alexaalleinzuhaus.de and the code in my respos
+
+- 🍃 I like to go climbing 🧗‍♀️ and riding my bike 🚴‍♀️
+
+- ⚡ My nickname is Laser Lisa
+
+- 📫 Feel free to geht in touch! You can send me an email heinze(at)uni-kassel(dot)de or an DM via my Instagram [@lisahighnze](https://www.instagram.com/lisahighnze/)
+
+
 
 <!--
 **highnze/highnze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
