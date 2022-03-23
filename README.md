@@ -1,4 +1,4 @@
-### Hej ✌️
+### Hej 🙃
 
 - 🔭 I’m currently working at the [School of arts Cassel](https://kunsthochschulekassel.de/willkommen.html) as a research assistant at the workshop (Studienwerkstatt) [Digitale 3D-Technik](https://d3dt.uber.space/), where I experiment with, work and teach different technologies like 3D printing (FDM, SLA, SLS, LDM ceramic), CNC laser, CNC milling ... 
 
