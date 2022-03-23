@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at the [School of arts Cassel](https://kunsthochschulekassel.de/willkommen.html) as a research assistant at the workshop (Studienwerkstatt) [Digitale 3D-Technik](https://d3dt.uber.space/), where I teach and experiment with different technologies like 3D printing (FDM, SLA, SLS, LDM ceramic), CNC laser, CNC milling ... 
 
-- 🤖 I just finished my thesis "Alexa allein Zuhaus" in Systemdesign. You can find it at www.alexaalleinzuhaus.de and in my respo https://github.com/highnze/alexaalleinzuhaus.de
+- 🤖 I just finished my thesis "Alexa allein Zuhaus" in Systemdesign. You can find it at www.alexaalleinzuhaus.de and in my [respo](https://github.com/highnze/alexaalleinzuhaus.de)
 
 - 🍃 I like to go climbing 🧗‍♀️ and riding my bike 🚴‍♀️
 
