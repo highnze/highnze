@@ -6,10 +6,7 @@
 
 - 🍃 I like to go climbing 🧗‍♀️ and riding my bike 🚴‍♀️
 
-- ⚡ My nickname is Laser Lisa
-
-- 📫 Feel free to geht in touch! You can send me an email heinze(at)uni-kassel(dot)de or an DM via my Instagram [@lisahighnze](https://www.instagram.com/lisahighnze/)
-
+- 📫 Feel free to get in touch via [Telegram](https://t.me/highnze/) or [Instagram](https://www.instagram.com/lisahighnze/)
 
 
 <!--
