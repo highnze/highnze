@@ -1,8 +1,8 @@
 ### Hej 🙃
 
-- 🔭 I’m currently working at the [School of Arts Cassel](https://kunsthochschulekassel.de/willkommen.html) as a research assistant at the workshop (Studienwerkstatt) [Digitale 3D-Technik](https://d3dt.uber.space/), where I teach and experiment with different technologies like 3D printing (FDM, SLA, SLS, LDM ceramic), CNC laser, CNC milling ... 
+- 🔭 I’m currently working at the [University of Kassel](https://www.uni-kassel.de/uni/) in the [department of Experimental and Digital Design and Construction](https://www.uni-kassel.de/fb06/institute/architektur/fachgebiete/experimentelles-und-digitales-entwerfen-und-konstruieren/home) as a research asssociate, where I am researching and experimenting around the topic of robot-assisted additive manufacturing of components from waste wood particles.
 
-- 🤖 I just finished my thesis "Alexa allein Zuhaus" in Systemdesign. You can find it at www.alexaalleinzuhaus.de and in my [respo](https://github.com/highnze/alexaalleinzuhaus.de)
+- 🤖 You can find my final thesis "Alexa allein Zuhaus" in Systemdesign at www.alexaalleinzuhaus.de and in my [respo](https://github.com/highnze/alexaalleinzuhaus.de)
 
 - 🍃 I like to go climbing 🧗‍♀️ , riding my bike 🚴‍♀️ and I am always on the lookout for the latest sweets 🍪
 
