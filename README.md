@@ -4,7 +4,7 @@
 
 - 🤖 You can find my final thesis "Alexa allein Zuhaus" in Systemdesign at www.alexaalleinzuhaus.de and in my [respo](https://github.com/highnze/alexaalleinzuhaus.de)
 
-- 🍃 I like to go climbing 🧗‍♀️ , riding my bike 🚴‍♀️ and I am always on the lookout for the latest sweets 🍪
+- 🍃 I like to go climbing 🧗‍♀️ , riding my bike 🚴‍♀️ and I am always on the lookout for the best sweets 🍪
 
 - 📫 Feel free to get in touch via [Telegram](https://t.me/highnze/) or [Instagram](https://www.instagram.com/lisahighnze/)
 
