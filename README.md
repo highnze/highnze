@@ -1,6 +1,6 @@
 ### Hej 🙃
 
-- 🔭 I’m currently working at the [University of Kassel](https://www.uni-kassel.de/uni/) in the [department of Experimental and Digital Design and Construction](https://www.uni-kassel.de/fb06/institute/architektur/fachgebiete/experimentelles-und-digitales-entwerfen-und-konstruieren/home) as a research asssociate, where I am researching and experimenting around the topic of robot-assisted additive manufacturing of components from waste wood particles.
+- 🔭 I’m currently working at the [University of Kassel](https://www.uni-kassel.de/uni/) in the [Department of Experimental and Digital Design and Construction](https://www.uni-kassel.de/fb06/institute/architektur/fachgebiete/experimentelles-und-digitales-entwerfen-und-konstruieren/home) as a research asssociate, where I am researching and experimenting around the topic of _robot-assisted additive manufacturing of components from waste wood particles_.
 
 - 🤖 You can find my final thesis "Alexa allein Zuhaus" in Systemdesign at www.alexaalleinzuhaus.de and in my [respo](https://github.com/highnze/alexaalleinzuhaus.de)
 
